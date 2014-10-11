@@ -1,4 +1,4 @@
-winterclocks
+Winterclocks
 ============
 
-A simple CSS framework for basic positioning
+A simple CSS framework for basic positioning.
