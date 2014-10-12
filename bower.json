@@ -1,8 +1,8 @@
 {
-  "name": "Winterclocks",
+  "name": "winterclocks",
   "version": "0.0.0",
   "description": "A simple CSS framework for basic positioning and styles.",
-  "main": "winterclocks.css",
+  "main": "./dist/css/winterclocks.css",
   "keywords": [
     "CSS",
     "LESS",
