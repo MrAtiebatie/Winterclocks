@@ -1,0 +1,26 @@
+{
+  "name": "winterclocks",
+  "version": "0.0.0",
+  "description": "A simple CSS framework for basic positioning and styles.",
+  "main": "./dist/css/winterclocks.css",
+  "keywords": [
+    "CSS",
+    "LESS",
+    "Framework",
+    "Winterclocks"
+  ],
+  "authors": [
+    "Sjors van Dongen <info@sjorsvandongen.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "less-elements": "*"
+  }
+}
