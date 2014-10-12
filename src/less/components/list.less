@@ -1,0 +1,21 @@
+ul.themed {
+	margin: 0;
+
+	li {
+		padding: 10px 25px;
+		cursor: pointer;
+		.transition(.2s, ease-in);
+
+		&:hover {
+			background: lighten(@background, 5%);
+		}
+
+		&.active {
+			background: lighten(@background, 5%);
+		}
+
+		a {
+			text-decoration: none;
+		}
+	}
+}
